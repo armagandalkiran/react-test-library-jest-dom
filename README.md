@@ -58,7 +58,7 @@ test internals.
 * Very easy to pinpoint failures.   -----Close to how users interact with software
  
 ! Further from how users interact with software. -----Robuse tests. (hard to break) 
-! More likely to break with refactoring.        ----- More difficult to debug failing tests.
+! More likely to break with refactoring. ----- More difficult to debug failing tests.
 
 
 
