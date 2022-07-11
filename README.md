@@ -1,36 +1,36 @@
-#PURPOSE
+# PURPOSE
 
 TO LEARN HOW REACT TEST WORKS.
 ALL THE TESTS ARE INSIDE APP.TEST.JS FILE
 
 
-#WHAT I LEARN
+# WHAT I LEARN
 
 What is exactly react testing library and jest are.
 
-#REACT TESTING LIBRARY
+# REACT TESTING LIBRARY
 - Provides virtual DOM for tests.
 
-#JEST
+# JEST
 - Test runner that
   * Finds tests
   * Runs tests
   * Determines whether tests pass or fail. (expect)
   
-#What is TDD ? 
+# What is TDD ? 
 Write tests before writing code.Then write code to pass the test.
 
 write shell function -> write tests -> tests fail -> write code -> tests pass
 
-#But why to use TDD method ?
+# But why to use TDD method ?
 - Make a huge difference in how it feels to write tests.
 - More efficient. Re-run tests "for free" after changes.
 
-#REACT TESTING LIBRARY PHILOSOPHY
+# REACT TESTING LIBRARY PHILOSOPHY
 - Creates virtual DOM and provides utilities for interacting DOM.
 - Allows testing without a browser.
 
-#TYPES OF TESTS
+# TYPES OF TESTS
 
 -UNIT TESTS
 
