@@ -52,14 +52,14 @@ write shell function -> write tests -> tests fail -> write code -> tests pass
 
       #UNIT TESTING                  #FUNCTIONAL TESTING
 
-- isolated: mock dependencies,      - include all relevant units,test behavior
+- isolated: mock dependencies,      -----include all relevant units,test behavior
 test internals.                      
 
-* Very easy to pinpoint failures.   * Close to how users interact with software
+* Very easy to pinpoint failures.   -----Close to how users interact with software
  
-! Further from how users interact.  * Robuse tests. (hard to break)  
+! Further from how users interact.  -----Robuse tests. (hard to break)  
 with software.
-! More likely to break with.        ! More difficult to debug failing tests.
+! More likely to break with.        ----- More difficult to debug failing tests.
 refactoring.
 
 
