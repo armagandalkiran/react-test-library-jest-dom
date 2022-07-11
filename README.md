@@ -48,7 +48,7 @@ write shell function -> write tests -> tests fail -> write code -> tests pass
 
 * Use actual browser and server. (Cypress, Selenium)
 
-#FUNCTIONAL TESTING VS UNIT TESTING
+# FUNCTIONAL TESTING VS UNIT TESTING
 
       #UNIT TESTING                  #FUNCTIONAL TESTING
 
@@ -63,7 +63,7 @@ with software.
 refactoring.
 
 
-#WHY TDD INSTEAD OF BDD
+# WHY TDD INSTEAD OF BDD
 
 Because BDD is very explicitly defined.
 Involves collaboration between lots of roles.
